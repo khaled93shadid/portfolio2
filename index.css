@@ -42,6 +42,7 @@ width: 220px;line-height: 40px;font-weight: 500;}
 
 
 
+
 .main_4th_row{margin-left: 500px;margin-top: 200px;position: relative;}
 .main_4th_row_column{display: grid;grid-template-columns: 50% 50%;column-gap: 250px;}
 .main_4th_row_column1_relative{position: relative;}
