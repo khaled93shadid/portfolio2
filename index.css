@@ -45,8 +45,8 @@ width: 220px;line-height: 40px;font-weight: 500;}
 
 @media screen and (height<500px) {
  .main_1st_row_left_box{position: fixed;top: 0px;left: 0px;bottom: 0px;width: 205vh;background-color:rgba(0, 0, 0, 0.7);}
- .left_box_selects{position: absolute;top:60px;left:300px}.left_box_p1{position: absolute;left: 200px;top: 60px;}
-.left_box_border1{position: absolute;left: 210px;top: 70px;} .left_box_border2{position: absolute;left: 215px;top: 60px;} 
+ .left_box_selects{position: absolute;top:60px;left:400px}.left_box_p1{position: absolute;left: 200px;top: 60px;}
+.left_box_border1{position: absolute;left: 110px;top: 70px;} .left_box_border2{position: absolute;left: 120px;top: 60px;} 
 }
 
 
