@@ -51,11 +51,7 @@ width: 220px;line-height: 40px;font-weight: 500;}
 .left_box_border1{position: absolute;left: 25px;top: 110px;} .left_box_border2{position: absolute;left: 24px;top: 100px;} 
 }
 
-@media screen and (max_width:1024px) {
- .main_1st_row_left_box{position: fixed;top: 0px;left: 0px;bottom: 0px;width: 205vh;background-color:rgba(0, 0, 0, 0.7);}
- .left_box_selects{position: absolute;top:100px;left:50%;}.left_box_p1{position: absolute;left: 30%;top: 120px;}
-.left_box_border1{position: absolute;left: 25%;top: 110px;} .left_box_border2{position: absolute;left: 24%;top: 100px;} 
-}
+
 
 
 
