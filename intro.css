@@ -42,10 +42,10 @@ width: 400px;height: 550px;padding-left: 80px;}
 
 @media screen and (width<700px) {.left_box_selects{position: absolute;top: 0px;left:10px;display: flex;align-items: center;margin-top: 60px;}
 .left_box_selects_P1{color:white;font-size: 15px;font-weight: 500px;
-  cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 10px;padding: 5px;}
+  cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 10px;;border: solid white 1px;padding: 3px;}
 .main_1st_row_intro_box{border: solid white 1px;width: 420px;height: 400px;position: absolute;
 left: 20px;top:130px;background-image: initial;background-color: rgba(255,255,255, 0.4);}
 .main_1st_row_left_box{position: fixed;top: 0px;left: 0px;right:0px;height:120px ;background-color:rgba(0, 0, 0, 0.7);
 margin-bottom: 30px;}
 .left_box_p1{color: white;position: absolute;left: 0px;top:-15px;font-size: 15px;
-;line-height: 40px;font-weight: 500;cursor: pointer;border: solid white 1px;padding: 5px;} }
+;line-height: 40px;font-weight: 500;cursor: pointer;border: solid white 1px;padding: 3px;} }
