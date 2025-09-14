@@ -1,5 +1,6 @@
 body{margin: 0px;padding-bottom: 200px;padding: 0px;}
 p{font-family: Roboto;color: rgb(65, 48, 48);}
+a{text-decoration: none;}
 .main_1st_row{position: relative;}
 .main_1st_row_img{height: 100vh;width:214vh;}
 
