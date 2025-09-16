@@ -51,5 +51,5 @@ margin-bottom: 30px;}
 .left_box_p1{color: white;position: absolute;left: 0px;top:-15px;font-size: 14px;
 ;line-height: 40px;font-weight: 500;cursor: pointer;border: solid white 1px;padding: 2px;} 
 
-.main_1st_row_left_box_relative{display: flex;flex-direction: row;align-items: center;}
+.main_1st_row_left_box_relative{display: flex;}
 }
