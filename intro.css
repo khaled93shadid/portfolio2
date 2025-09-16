@@ -48,7 +48,7 @@ width: 400px;height: 550px;padding-left: 80px;}
 .left_box_selects_P1{color:white;font-size: 13px;font-weight: 500px;
   cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 10px;;border: solid white 1px;padding: 3px;}
 .left_box_selects_P2{color:white;font-size: 13px;font-weight: 500px;
-  cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 10px;;border: solid white 1px;padding: 3px;}
+  cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 10px;;border: solid white 1px;padding: 3px;width:70px ;}
 
 .main_1st_row_intro_box{border: solid white 1px;width: 420px;height: 400px;position: absolute;
 left: 20px;top:130px;background-image: initial;background-color: rgba(255,255,255, 0.4);}
