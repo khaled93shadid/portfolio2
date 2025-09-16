@@ -2,7 +2,7 @@ a{text-decoration: none;}
 body{margin: 0px;padding-bottom: 200px;padding: 0px;}
 p{font-family: Roboto;color: rgb(65, 48, 48);}
 .main_1st_row_img{height: 100vh;width:214vh;}
-.main_1st_row_intro_box{border: solid white 1px;width: 500px;height: 450px;position: absolute;
+.main_1st_row_intro_box{border: solid white 1px;width: 500px;height: 450px;position: fixed;
 left: 20px;top:130px;background-image: initial;background-color: rgba(255,255,255, 0.4);}
 .main_dev{position: relative;}
 .intro_box_p1{color: rgb(0, 102, 153);font-size: 35px;font-weight: 400;font-family: open-sans;margin-left: 40px}
@@ -57,5 +57,11 @@ margin-bottom: 30px;}
 .left_box_p1{color: white;position: absolute;left: 0px;top:-14px;font-size: 14px;
 ;line-height: 40px;font-weight: 500;cursor: pointer;border: solid white 1px;padding: 2px;} 
 
+}
 
+@media screen and (height<500px) {
+.main_1st_row_intro_box{border: solid white 1px;width: 600px;height: 300px;position: fixed;
+left: 20px;top:130px;background-image: initial;background-color: rgba(255,255,255, 0.4);} 
+.intro_box_p2{color:rgb(51, 51, 51);font-size: 21px;font-weight: 400;font-family: open-sans;;
+  margin-left: 40px;line-height: 36px;}
 }
