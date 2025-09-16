@@ -52,7 +52,7 @@ width: 400px;height: 550px;padding-left: 80px;}
   cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 10px;;border: solid white 1px;padding: 3px;width:70px ;}
 
 .main_1st_row_intro_box{border: solid white 1px;width: 400px;height: 400px;position: fixed;
-left: 10px;top:130px;background-image: initial;background-color: rgba(255,255,255, 0.5);}
+left: 1px;top:130px;background-image: initial;background-color: rgba(255,255,255, 0.5);}
 .main_1st_row_left_box{position: fixed;top: 0px;left: 0px;right:0px;height:46px ;background-color:rgba(0, 0, 0, 0.7);
 margin-bottom: 30px;}
 .left_box_p1{color: white;position: absolute;left: 0px;top:-14px;font-size: 14px;
