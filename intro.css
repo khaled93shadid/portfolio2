@@ -20,10 +20,14 @@ left: 20px;top:130px;background-image: initial;background-color: rgba(255,255,25
 .left_box_selects{position: absolute;top: -8px;left: 450px;display: flex;align-items: center;}
 .left_box_selects_P1{color:white;font-size: 20px;font-weight: 500px;
   cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 20px;padding: 5px;}
+
+.left_box_selects_P2{color:white;font-size: 20px;font-weight: 500px;
+  cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 20px;padding: 5px;width: 105px;}
+
 .left_box_selects_P{color:white;font-size: 20px;font-weight: 500px;
     cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;}
 .left_box_selects_P1:hover{border: solid white 1px;}
-.left_box_selects_P:hover{border: solid white 1px;}
+.left_box_selects_P2:hover{border: solid white 1px;}
 
 .main_2nd_row{position: absolute;top:100px;left:20px;background-color: rgba(255,255,255, 0.4);
 width: 400px;height: 550px;padding-left: 80px;}
@@ -42,6 +46,8 @@ width: 400px;height: 550px;padding-left: 80px;}
 
 @media screen and (width<700px) {.left_box_selects{position: absolute;top:-3px;left:140px;display: flex;align-items: center;}
 .left_box_selects_P1{color:white;font-size: 13px;font-weight: 500px;
+  cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 10px;;border: solid white 1px;padding: 3px;}
+.left_box_selects_P2{color:white;font-size: 13px;font-weight: 500px;
   cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 10px;;border: solid white 1px;padding: 3px;}
 
 .main_1st_row_intro_box{border: solid white 1px;width: 420px;height: 400px;position: absolute;
