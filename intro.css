@@ -20,9 +20,9 @@ left: 20px;top:130px;background-image: initial;background-color: rgba(255,255,25
 
 .left_box_selects{position: absolute;top: -8px;left: 450px;display: flex;align-items: center;}
 .left_box_selects_P1{color:white;font-size: 20px;font-weight: 500px;
-  cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 20px;}
+  cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;}
 
-.btn{width: 85px;height: 40px;margin-right: 10px;margin-top: 20px;}
+.btn{width: 90px;height: 40px;margin-right: 10px;margin-top: 20px;}
 .btn2{width: 130px;height: 40px;margin-right: 10px;margin-top: 20px;}
 .left_box_selects_P2{color:white;font-size: 20px;font-weight: 500px;
   cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 20px;width: 105px;}
@@ -85,7 +85,7 @@ width: 400px;height: 530px;padding-left: 10px;}
 .main_3rd_row_img_column{display: grid;grid-template-columns: 100px ;position: absolute;
 ;top:110px;left: 35px;column-gap: 20px;}
 .img_myworks{margin-top: 20px;cursor: pointer;width: 100px;height:100px ;}
-.btn{width: 60px;height: 30px;margin-right: 10px;}
+.btn{width: 65px;height: 30px;margin-right: 10px;}
 .btn2{width: 95px;height: 30px;margin-right: 10px}
 
 }
