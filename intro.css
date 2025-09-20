@@ -24,7 +24,6 @@ left: 20px;top:130px;background-image: initial;background-color: rgba(255,255,25
 
 .btn{width: 85px;height: 40px;margin-right: 10px;margin-top: 20px;}
 .btn2{width: 130px;height: 40px;margin-right: 10px;margin-top: 20px;}
-.btn3{width: 130px;height: 40px;margin-right: 10px;margin-top: 20px;}
 .left_box_selects_P2{color:white;font-size: 20px;font-weight: 500px;
   cursor: pointer;border: solid rgba(0, 0, 0, 0) 1px;margin-right: 20px;width: 105px;}
 
@@ -88,7 +87,7 @@ width: 400px;height: 530px;padding-left: 10px;}
 .img_myworks{margin-top: 20px;cursor: pointer;width: 100px;height:100px ;}
 .btn{width: 60px;height: 30px;margin-right: 10px;}
 .btn2{width: 95px;height: 30px;margin-right: 10px}
-.btn3{width: 96px;height: 30px;margin-right: 10px}
+
 }
 
 
