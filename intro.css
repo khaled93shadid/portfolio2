@@ -66,7 +66,7 @@ width: 450px;height: 530px;padding-left: 80px;}
 left: 1px;top:130px;background-image: initial;background-color: rgba(255,255,255, 0.5);}
 .main_1st_row_left_box{position: fixed;top: 0px;left: 0px;right:0px;height:46px ;background-color:rgba(0, 0, 0, 0.7);
 margin-bottom: 30px;}
-.left_box_p1{color: white;position: absolute;left: 0px;top:5px;font-size: 14px;
+.left_box_p1{color: white;position: absolute;left: 5px;top:5px;font-size: 14px;
 ;line-height: 40px;font-weight: 500;cursor: pointer;} 
 
 .main_2nd_row{position: fixed;top:80px;left:0px;background-color: rgba(255,255,255, 0.4);
